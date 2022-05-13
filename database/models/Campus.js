@@ -24,7 +24,11 @@ const Campus = db.define("campus", {
   },
 
   description: {
-    type: Sequelize.TEXT,
+    type: Sequelize.TEXT, 
+  },
+
+  campusId: {
+    type: Sequelize.INTEGER,
   }
 });
 
