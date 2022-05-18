@@ -12,3 +12,6 @@ This repository is the server (back-end) starter code for Final Project (CRUD Ap
 3.	Go into the "sever-starter-code" folder, enter the command to install dependencies: `npm install` 
 4.	Start the server application by entering the command: `npm start` 
 5.	After the server application is successfully started, its access address is at: `http://localhost:5000` 
+
+
+Members: Sunny Kwong (kwongsunny) Justin Quach (quachjustin) Christy Li (christy8059)
